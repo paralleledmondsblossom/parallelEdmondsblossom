@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+# Use INIT
+./build/matcher ./graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx 5 1 0
+./build/matcher ./graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx 5 2 1
+./build/matcher ./graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx 5 4 1
+./build/matcher ./graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx 5 8 1

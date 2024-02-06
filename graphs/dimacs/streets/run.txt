@@ -1,0 +1,30 @@
+#!/usr/bin/bash
+# Use INIT
+#./matcher 1 0 IF=../graphs/dimacs/streets/luxembourg_osm/luxembourg_osm.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/streets/belgium_osm/belgium.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/streets/netherlands_osm/netherlands_osm.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/streets/italy_osm/italy_osm.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/streets/great-britain_osm/great-britain_osm.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/streets/germany_osm/germany_osm.mtx MT=9 IMT=0
+./matcher 1 0 IF=../graphs/dimacs/streets/asia_osm/asia_osm.mtx MT=9 IMT=0
+./matcher 1 0 IF=../graphs/dimacs/streets/europe_osm/europe_osm.mtx MT=9 IMT=0
+
+# Control
+#./matcher 1 1 IF=../graphs/dimacs/streets/luxembourg_osm/luxembourg_osm.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/streets/belgium_osm/belgium.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/streets/netherlands_osm/netherlands_osm.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/streets/italy_osm/italy_osm.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/streets/great-britain_osm/great-britain_osm.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/streets/germany_osm/germany_osm.mtx MT=9 IMT=0
+./matcher 1 1 IF=../graphs/dimacs/streets/asia_osm/asia_osm.mtx MT=9 IMT=0
+./matcher 1 1 IF=../graphs/dimacs/streets/europe_osm/europe_osm.mtx MT=9 IMT=0
+
+# Control
+#./matcher 1 2 IF=../graphs/dimacs/streets/luxembourg_osm/luxembourg_osm.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/streets/belgium_osm/belgium.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/streets/netherlands_osm/netherlands_osm.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/streets/italy_osm/italy_osm.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/streets/great-britain_osm/great-britain_osm.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/streets/germany_osm/germany_osm.mtx MT=9 IMT=0
+./matcher 1 2 IF=../graphs/dimacs/streets/asia_osm/asia_osm.mtx MT=9 IMT=0
+./matcher 1 2 IF=../graphs/dimacs/streets/europe_osm/europe_osm.mtx MT=9 IMT=0

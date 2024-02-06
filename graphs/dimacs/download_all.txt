@@ -1,0 +1,33 @@
+#!/usr/bin/bash
+cd ./graphs/dimacs/
+cd 2DDynSims
+#bash download.txt
+python ./download.py
+cd ..
+
+cd citations
+#bash download.txt
+python ./download.py
+cd ..
+
+cd delauney
+#bash download.txt
+python ./download.py
+cd ..
+
+cd kron
+#bash download.txt
+python ./download.py
+cd ..
+
+cd rgg
+#bash download.txt
+python ./download.py
+cd ..
+
+cd streets
+#bash download.txt
+python ./download.py
+cd ..
+
+cd ../..

@@ -1,0 +1,14 @@
+#!/bin/bash
+#for i in $(seq 15 1 24)
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 0 IF=../graphs/dimacs/rgg/rgg_n_2_${i}_s0/rgg_n_2_${i}_s0.mtx MT=9 IMT=0
+done
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 1 IF=../graphs/dimacs/rgg/rgg_n_2_${i}_s0/rgg_n_2_${i}_s0.mtx MT=9 IMT=0
+done
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 2 IF=../graphs/dimacs/rgg/rgg_n_2_${i}_s0/rgg_n_2_${i}_s0.mtx MT=9 IMT=0
+done

@@ -1,0 +1,15 @@
+#!/bin/bash
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 0 ../graphs/dimacs/delauney/delaunay_n$i/delaunay_n$i.mtx MT=9 IMT=0
+done
+
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 1 ../graphs/dimacs/delauney/delaunay_n$i/delaunay_n$i.mtx MT=9 IMT=0
+done
+
+for i in $(seq 24 1 24)
+do
+  ./matcher 1 2 ../graphs/dimacs/delauney/delaunay_n$i/delaunay_n$i.mtx MT=9 IMT=0
+done

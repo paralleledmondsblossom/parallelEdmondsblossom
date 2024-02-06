@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+# Use INIT
+#./matching 0 0 ../graphs/dimacs/2DDynSims/hugebubbles-00000/hugebubbles-00000.mtx 16 1
+#./matching 0 0 ../graphs/dimacs/2DDynSims/hugebubbles-00010/hugebubbles-00010.mtx 16 1
+./matching 0 0 ~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx 16 1
+./matching 0 1 ~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx 16 1
+./matching 0 2 ~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx 16 1
+./matching 0 0 ~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx 16 1
+./matching 0 1 ~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx 16 1
+./matching 0 2 ~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx 16 1
+./matching 0 0 ~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx 16 1
+./matching 0 1 ~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx 16 1
+./matching 0 2 ~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx 16 1
+./matching 0 0 ~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx 16 1
+./matching 0 1 ~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx 16 1
+./matching 0 2 ~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx 16 1

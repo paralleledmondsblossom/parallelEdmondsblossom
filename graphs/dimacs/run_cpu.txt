@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+
+bash ./graphs/dimacs/2DDynSims/run_cpu.txt
+
+bash ./graphs/dimacs/citations/run_cpu.txt
+
+bash ./graphs/dimacs/delauney/run_cpu.txt
+
+bash ./graphs/dimacs/kron/run_cpu.txt
+
+bash ./graphs/dimacs/rgg/run_cpu.txt
+
+bash ./graphs/dimacs/streets/run_cpu.txt
+
+

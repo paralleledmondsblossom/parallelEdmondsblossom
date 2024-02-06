@@ -1,0 +1,5 @@
+#!/bin/bash
+./build/matcher ./graphs/dimacs/rgg/rgg_n_2_24_s0/rgg_n_2_24_s0.mtx 5 1 0
+./build/matcher ./graphs/dimacs/rgg/rgg_n_2_24_s0/rgg_n_2_24_s0.mtx 5 2 1
+./build/matcher ./graphs/dimacs/rgg/rgg_n_2_24_s0/rgg_n_2_24_s0.mtx 5 4 1
+./build/matcher ./graphs/dimacs/rgg/rgg_n_2_24_s0/rgg_n_2_24_s0.mtx 5 8 1

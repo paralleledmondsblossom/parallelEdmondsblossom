@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+./build/matcher ./graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx 5 1 0
+./build/matcher ./graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx 5 2 1
+./build/matcher ./graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx 5 4 1
+./build/matcher ./graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx 5 8 1

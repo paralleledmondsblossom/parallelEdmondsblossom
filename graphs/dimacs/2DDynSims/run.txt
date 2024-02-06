@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+
+#!/usr/bin/bash
+# Use INIT
+#./matcher 1 0 IF=../graphs/dimacs/2DDynSims/hugebubbles-00000/hugebubbles-00000.mtx MT=9 IMT=0
+#./matcher 1 0 IF=../graphs/dimacs/2DDynSims/hugebubbles-00010/hugebubbles-00010.mtx MT=9 IMT=0
+./matcher 1 0 IF=../graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx MT=9 IMT=0
+# Control
+#./matcher 1 1 IF=../graphs/dimacs/2DDynSims/hugebubbles-00000/hugebubbles-00000.mtx MT=9 IMT=0
+#./matcher 1 1 IF=../graphs/dimacs/2DDynSims/hugebubbles-00010/hugebubbles-00010.mtx MT=9 IMT=0
+./matcher 1 1 IF=../graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx MT=9 IMT=0
+
+# Control
+#./matcher 1 2 IF=../graphs/dimacs/2DDynSims/hugebubbles-00000/hugebubbles-00000.mtx MT=9 IMT=0
+#./matcher 1 2 IF=../graphs/dimacs/2DDynSims/hugebubbles-00010/hugebubbles-00010.mtx MT=9 IMT=0
+./matcher 1 2 IF=../graphs/dimacs/2DDynSims/hugebubbles-00020/hugebubbles-00020.mtx MT=9 IMT=0

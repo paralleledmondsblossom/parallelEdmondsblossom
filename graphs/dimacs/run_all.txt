@@ -1,0 +1,19 @@
+#!/usr/bin/bash
+
+bash ../graphs/dimacs/2DDynSims/run.txt
+bash ../graphs/dimacs/2DDynSims/run_cpu.txt
+
+bash ../graphs/dimacs/citations/run.txt
+bash ../graphs/dimacs/citations/run_cpu.txt
+
+bash ../graphs/dimacs/delauney/run.txt
+bash ../graphs/dimacs/delauney/run_cpu.txt
+
+bash ../graphs/dimacs/kron/run.txt
+bash ../graphs/dimacs/kron/run_cpu.txt
+
+bash ../graphs/dimacs/rgg/run.txt
+bash ../graphs/dimacs/rgg/run_cpu.txt
+
+bash ../graphs/dimacs/streets/run.txt
+bash ../graphs/dimacs/streets/run_cpu.txt

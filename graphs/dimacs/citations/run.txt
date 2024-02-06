@@ -1,0 +1,18 @@
+#!/usr/bin/bash
+#./matcher 1 0 ../graphs/dimacs/citations/coAuthorsCiteseer/coAuthorsCiteseer.mtx MT=9 IMT=0
+#./matcher 1 0 ../graphs/dimacs/citations/coAuthorsDBLP/coAuthorsDBLP.mtx MT=9 IMT=0
+#./matcher 1 0 ../graphs/dimacs/citations/citationCiteseer/citationCiteseer.mtx MT=9 IMT=0
+./matcher 1 0 ../graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx MT=9 IMT=0
+#./matcher 1 0 ../graphs/dimacs/citations/coPapersCiteseer/coPapersCiteseer.mtx MT=9 IMT=0
+
+#./matcher 1 1 ../graphs/dimacs/citations/coAuthorsCiteseer/coAuthorsCiteseer.mtx MT=9 IMT=0
+#./matcher 1 1 ../graphs/dimacs/citations/coAuthorsDBLP/coAuthorsDBLP.mtx MT=9 IMT=0
+#./matcher 1 1 ../graphs/dimacs/citations/citationCiteseer/citationCiteseer.mtx MT=9 IMT=0
+./matcher 1 1 ../graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx MT=9 IMT=0
+#./matcher 1 1 ../graphs/dimacs/citations/coPapersCiteseer/coPapersCiteseer.mtx MT=9 IMT=0
+
+#./matcher 1 2 ../graphs/dimacs/citations/coAuthorsCiteseer/coAuthorsCiteseer.mtx MT=9 IMT=0
+#./matcher 1 2 ../graphs/dimacs/citations/coAuthorsDBLP/coAuthorsDBLP.mtx MT=9 IMT=0
+#./matcher 1 2 ../graphs/dimacs/citations/citationCiteseer/citationCiteseer.mtx MT=9 IMT=0
+./matcher 1 2 ../graphs/dimacs/citations/coPapersDBLP/coPapersDBLP.mtx MT=9 IMT=0
+#./matcher 1 2 ../graphs/dimacs/citations/coPapersCiteseer/coPapersCiteseer.mtx MT=9 IMT=0

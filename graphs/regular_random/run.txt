@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+
+#!/usr/bin/bash
+# Use INIT
+./matching 1 0 IF=~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 1 IF=~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 2 IF=~/Matching/graphs/regular_random/5000000_2_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 0 IF=~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 1 IF=~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 2 IF=~/Matching/graphs/regular_random/5000000_3_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 0 IF=~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 1 IF=~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 2 IF=~/Matching/graphs/regular_random/5000000_5_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 0 IF=~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 1 IF=~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx MT=9 IMT=0
+./matching 1 2 IF=~/Matching/graphs/regular_random/5000000_10_REG_RAND.txt.mtx MT=9 IMT=0
